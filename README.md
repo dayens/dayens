@@ -6,6 +6,13 @@ Saya seorang Mahasiswa di **Universitas Indraprasta PGRI**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dion-sunardi-b4aa53221/) ku ya.
 
+<p align="left">
+<a href="https://github.com/dayens">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dayens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dayens&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **dayens/dayens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
