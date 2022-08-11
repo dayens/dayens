@@ -1,4 +1,11 @@
-### Hi there 👋
+### Halo semua 👋
+
+Perkenalkan nama saya **Dion Sunardi**.
+
+Saya seorang Mahasiswa di **Universitas Indraprasta PGRI**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dion-sunardi-b4aa53221/) ku ya.
+
 
 <!--
 **dayens/dayens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
