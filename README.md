@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Dion Sunardi**.
 
-Saya seorang Mahasiswa di **Universitas Indraprasta PGRI**.
+Saya Mahasiswa dari **Universitas Indraprasta PGRI**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dion-sunardi-b4aa53221/) ku ya.
 
